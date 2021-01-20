@@ -1,37 +1,15 @@
 ## Welcome to My Profile!
 
-You can use the [editor on GitHub](https://github.com/Bc-coding/profile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi there, my name is Belle. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
+I started learning to code in Dec 2019 as my hobby, at first I was simply interested in finding out how websites are created. 
+I went through responsive web design certificate on FreeCodeCamp, then learning resources on Mozilla, some JavaScript courses on Udemy. 
+The more I code, the more I became hooked with coding. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I love the element of problem solving in programming and really enjoy the process of creating beautiful webpages. 
+As most of my learning to code is self-taught, I would love to join some communities and meet other people who share the same interests in web development. 
 
-```markdown
-Syntax highlighted code block
+I am super excited to join Coders Guild JAMstack course. I look forward to meeting other participants and building some interesting projects!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bc-coding/profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

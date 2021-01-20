@@ -4,7 +4,7 @@ Hi there, my name is Belle.
 
 ### About Me
 
-I am from Taiwan and currenly living in Leeds. I was working in the tax consulting firms in Taiwan and Singapore before my family and I relocated to Leeds. After the birth of my first child, I decided to take a break from my previous career. 
+I am from Taiwan and my family and I relocated to the UK in 2016. We are currently living in Leeds.
 
 I've always been interested in design. In 2019, I was randomly looking for some opportunities to develop creativity or a new skill. Then I came across some blogs about UX/UI design and web development. At first I was simply interested in finding out how websites are created. The more I code, the more I became hooked with coding. 
 
